@@ -4,7 +4,7 @@
 Для удобства пользования реализовано управление посредством Drag'n'Drop.
 Результат игры будет сохранен в localstorage.
 
-![alt win](https://pp.userapi.com/c850232/v850232497/499c1/uMpOc8YL4sk.jpg)
+![win](https://pp.userapi.com/c850232/v850232497/499c1/uMpOc8YL4sk.jpg)
 
 ## Для запуска проекта:
 Перейдите в папку dist и запустите index.html
