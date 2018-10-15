@@ -17,3 +17,9 @@ npm run dev
 npm run build
 ```
 Результат сборки будет лежать в папке dist и назван bundle.js
+
+img[src$="centerme"] {
+  display:block;
+  width: 125px;
+  margin: 0 auto;
+}
