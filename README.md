@@ -1,5 +1,5 @@
 # Пятнашки. 
-### Демонстрация https://monstradamys.github.io/Fifteen/
+### <a href="https://monstradamys.github.io/Fifteen/" target="_blank">Демонстрация</a>
 Пятнашки это игра, написанная с использованием таких технологий как: html, sass, js, react, webpack.
 Для удобства пользования реализовано управление посредством Drag'n'Drop.
 Результат игры будет сохранен в localstorage.
